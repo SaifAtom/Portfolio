@@ -3,7 +3,7 @@ import React from 'react'
 import default_files from '../../Resources/constants/default_files.json'
 
 const initializeLocalStorage = () =>{
-    let tree = localStorage.getItem('iliyan-dimitrov-files');
+    let tree = localStorage.getItem('saif-atom-files');
     if(tree !== null)
         return
     
@@ -12,7 +12,7 @@ const initializeLocalStorage = () =>{
 
 const saveData = (tree) => {
     let stringFileStructure = JSON.stringify(tree)
-    localStorage.setItem('iliyan-dimitrov-files',stringFileStructure)
+    localStorage.setItem('saif-atom-files',stringFileStructure)
 }
 
 export default class OS extends React.Component{
@@ -20,13 +20,13 @@ export default class OS extends React.Component{
     tree
     currentDirectory
 
-    terminalString = this.user + '@IliyanDimitrov:~$ '
+    terminalString = this.user + '@SaifAtom:~$ '
 
 
     constructor(props){
         super(props)
         initializeLocalStorage();
-        this.tree = JSON.parse(localStorage.getItem('iliyan-dimitrov-files'))
+        this.tree = JSON.parse(localStorage.getItem('saif-atom-files'))
         this.currentDirectory = this.tree
     }
 

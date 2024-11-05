@@ -7,7 +7,7 @@ import starter_command_descriptions  from '../../Resources/constants/starter_com
 const create_initial_text = ()=>{
     let result = 
     [
-        <h2>Iliyan Dimitrov</h2>,
+        <h2>Saif Sghaier</h2>,
         <h3>This is a Fully Interactive Portfolio Page with a Linux Insprired Terminal<br/></h3>,
 
         <p>To Use the Portfolio Either <u className="attention">Use the Navigation</u></p>,

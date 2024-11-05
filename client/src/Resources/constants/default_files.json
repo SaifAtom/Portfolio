@@ -2,7 +2,7 @@
     {
         "type" : "file",
         "name" : "aboutMe.data",
-        "path" : "iliyan@dimitrov:~$",
+        "path" : "saif@atom:~$",
         "privileges" : ["read","write"],
         "contents":"../../Components/About/About.js",
         "owner" : []
@@ -10,7 +10,7 @@
     {
         "type" : "file",
         "name" : "experience.data",
-        "path" : "iliyan@dimitrov:~$",
+        "path" : "saif@atom:~$",
         "privileges" : ["read","write"],
         "contents":"../../Components/Experience/Experience.js",
         "owner" : []
@@ -18,7 +18,7 @@
     {
         "type" : "file",
         "name" : "work.data",
-        "path" : "iliyan@dimitrov:~$",
+        "path" : "saif@atom:~$",
         "privileges" : ["read","write"],
         "contents" : "../../Components/Work/Work.js",
         "owner" : []
@@ -26,7 +26,7 @@
     {
         "type" : "file",
         "name" : "snakeGame.exe",
-        "path" : "iliyan@dimitrov:~$",
+        "path" : "saif@atom:~$",
         "contents" : "../../Components/SnakeGame/SnakeGame.js",
         "privileges" : ["read","write","execute"],
         "owner" : []
@@ -34,7 +34,7 @@
     {
         "type" : "folder",
         "name" : "root",
-        "path" : "iliyan@dimitrov:~$",
+        "path" : "saif@atom:~$",
         "owner" : "iliyan",
         "children":
             [

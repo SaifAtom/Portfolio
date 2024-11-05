@@ -1,9 +1,9 @@
-import api_key from './api_key.json'
-
+import apikey from './api_key.json'
 const packageAll = () =>{
+  console.log(apikey[0].apikey)
   let headers = new Headers();
-  const token = api_key.key
-  const all_repos_url = 'https://api.github.com/users/iliyanid/repos'
+  const token = apikey[0].apikey
+  const all_repos_url = 'https://api.github.com/users/saifatom/repos'
   headers.set('Authorization', "token " + token);
 
   const allPackages = {

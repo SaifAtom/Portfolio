@@ -26,13 +26,13 @@ const submit = (e) =>{
 
     let templateParams = {
         from_name: email,
-        to_name: '<YOUR_EMAIL_ID>',
+        to_name: 'saifgmr@gmail.com',
         subject: subject,
         message: message,
        }
 
     if(email !== "" && subject !== "" && message !== ""){
-        emailjs.send('service_ocq50ip', 'template_ew0t8ol', templateParams, 'user_m0QGP3CClZeBUJkrNaonS')
+        emailjs.send('service_476ff1l', 'template_zowi3ai', templateParams, 'jYriAy5CfRlSctaao')
         .then((result) => {
             alert("Email Sent Succesfully")
             document.getElementById("email").value = "";

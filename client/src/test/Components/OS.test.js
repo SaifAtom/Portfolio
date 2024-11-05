@@ -6,7 +6,7 @@ import allPackages_MOCK from '../Resources/allPackages_MOCK'
 describe('OS', () => {
     var localStorageMock = (function() {
         var store = {
-            "iliyan-dimitrov-files":JSON.stringify(default_files)
+            "saif-atom-files":JSON.stringify(default_files)
         };
         return {
           getItem: function(key) {

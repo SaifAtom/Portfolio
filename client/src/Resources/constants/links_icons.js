@@ -2,29 +2,24 @@ import {ReactComponent as GITHUB} from '../icons/github.svg'
 import {ReactComponent as INSTAGRAM} from '../icons/instagram.svg'
 import {ReactComponent as TWITTER} from '../icons/twitter.svg'
 import {ReactComponent as LINKEDIN} from '../icons/linkedin.svg'
-import {ReactComponent as CODEPEN} from '../icons/codepen.svg'
 
 const links_icons =
 [
     {
-        link : 'https://github.com/IliyanID/',
+        link : 'https://github.com/SaifAtom/',
         icon : GITHUB
     },
     {
-        link : 'https://www.instagram.com/iliyanid2000/',
+        link : 'https://www.instagram.com/saif_atom/',
         icon : INSTAGRAM
     },
     {
-        link : 'https://twitter.com/UnknownUnoticed/',
+        link : 'https://x.com/SaifSghaier1',
         icon : TWITTER
     },
     {
-        link : 'https://www.linkedin.com/in/iliyan-dimitrov-926550200/',
+        link : 'https://www.linkedin.com/in/saifatom/',
         icon : LINKEDIN
     },
-    {
-        link : 'https://codepen.io/iliyanid/',
-        icon : CODEPEN
-    }
 ]
 export default links_icons

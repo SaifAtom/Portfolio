@@ -172,7 +172,7 @@ class App extends PureComponent {
 
   RightBarEmail(){
     return <div className="emailLine">
-            <div className="email"><span onClick={()=> this.addTab("Contact")}>dev.iliyan.dimitrov@gmail.com</span></div>
+            <div className="email"><span onClick={()=> this.addTab("Contact")}>saifgmr@gmail.com</span></div>
            </div>
   }
 
@@ -204,7 +204,7 @@ class App extends PureComponent {
         inView = {this.state.tabs[0].displayed}>   
       </Terminal>
       {this.DisplayCurrentWindow()}
-      <a href="https://github.com/IliyanID/PortfolioWebsite" target="_blank" id="footer" rel="noreferrer">Created and Designed by Iliyan Dimitrov</a>
+      <a href="https://github.com/SaifAtom" target="_blank" id="footer" rel="noreferrer">Visit my Github</a>
     </div>
     );
   }

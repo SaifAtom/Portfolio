@@ -1,51 +1,50 @@
 [
     {
-        "company" : "Freelance",
-        "title" : "Software Engineer",
-        "duration" : "January 2018 - Present",
+        "company" : "Fiverr",
+        "title" : "Smart Contract Auditor",
+        "duration" : "Febr. 2024 - Present",
         "description" : 
         [
-            "Experience in creating simple automation and computational programs utilizing Java",
-            "Utilized web scraping to create compolex website traversal programs",
-            "Worked on creating full blown website with custom front and back ends"
+            "Currently doing smart contract auditing on Fiverr as a freelancer and studying to be a Penetration tester (My dream job)"
         ]
         
     },
     {
-        "company" : "Colorado State University",
-        "title" : "Undergraduate Research Assistant",
+        "company" : "Vibranium Audits",
+        "title" : "Smart Contract Auditor ",
+        "duration" : "May. 2023 - Febr. 2024",
+        "description" : 
+        [
+            "Conducted comprehensive smart contract audits for a diverse range of projects spanning various industries, including finance, decentralized applications (dApps), and non-fungible tokens (NFTs).",
+            "Identified critical vulnerabilities and potential security risks within audited smart contracts, ensuring the integrity and robustness of decentralized ecosystems.",
+            "Developed detailed audit reports that articulated technical concepts in a clear and concise manner while providing actionable recommendations for enhancing code quality and mitigating identified risks."
+        ]
+        
+    },
+    {
+        "company" : "BlockAudit",
+        "title" : "Smart Contract Auditor",
         "duration" : "September 2021 - Present",
         "description" : 
         [
-            "Assist in research related to software security"
+            "Conducted extensive audits of smart contract codes to identify security vulnerabilities, logical flaws, and other potential risks.",
+            "Collaborated with development teams to ensure compliance with industry standards and best practices for smart contract development.",
+            "Evaluated smart contracts for adherence to regulatory requirements and legal frameworks, including KYC/AML and data privacy regulations.",
+            "Worked closely with clients to understand their business requirements and customize audit procedures accordingly."
         ]
         
     },
-    {
-        "company" : "Travelport",
-        "title" : "Software Engineer",
-        "duration" : "May 2021 - August 2021",
-        "description" : 
-        [
-            "Worked within an Agile team utilizing a SCRUM workflow to complete stories assigned to me.",
-            "Created a web automation tool GUI utilizing React which is being used by hundreds of employees within the company.",
-            "Assisted in setting up effective CI/CD pipelines for teams using GitHub actions.",
-            "Created POC migration of CI/CD pipelines in AzureDevOps to Github Actions."
-        ]
-        
-    },
+
         {
-        "company" : "Rocky Mountain Senior Care",
-        "title" : "Lead Software Engineer",
-        "duration" : "July 2022 - Feburary 2023",
+        "company" : "NonceBlox",
+        "title" : "Blockchain Engineer",
+        "duration" : "Mar. 2022 - Nov. 2022",
         "description" : 
         [
-            "Worked as a lead software developer. In charge of developing, planning, and managing projects utilizing a Agile workflow.",
-            "Maintained existing applications written in PHP CodeIgniter and Angular.",
-            "Created and developed new applications and features in React.js, Node.js, and MongoDB utilizing TypeScript.",
-            "Containerized existing and new applications and developed and deployed them so that they followed high availability principles.",
-            "Created new features like Electric Medication Prescribing that followed external industry APIs, standards and regulations",
-            "Created and maintained CI/CD pipelines for code testing, staging, and production."
+            "Designed and developed blockchain-based applications using various platforms, such as Ethereum, Hyperledger Fabric, or Corda, to meet specific business needs.",
+            "Worked on the full stack of blockchain technology, including smart contract development, distributed ledger technology, consensus algorithms, and decentralized application development.",
+            "Collaborated with cross-functional teams, including business analysts, project managers, and developers, to design and implement blockchain solutions that align with business objectives.",
+            "Integrated blockchain solutions with existing enterprise applications, data sources, and APIs to enable interoperability and data exchange between systems."
         ]
         
     }
